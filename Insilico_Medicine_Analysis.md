@@ -1,4 +1,4 @@
-Bio-Enterprise Analysis Series — Case 02: Insilico Medicine
+Bio-Enterprise Analysis Series — Case 02: Insilico Medicine.
 Can generative AI truly industrialize the creation of life-saving therapeutics — or are we just automating the generation of very expensive computational illusions?
 That question sat with me the entire time I was researching this company.
 Traditional drug discovery is, at its core, a patience game. Four to six years of manually screening millions of pre-existing molecules against a protein target, hoping something sticks. Insilico Medicine looked at that process and rejected it entirely. They treated molecular architecture like code — using Generative Adversarial Networks (GANs) to invent completely new, synthetic chemical matter from scratch. Not modifying what exists. Inventing what doesn't.
