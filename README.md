@@ -11,3 +11,4 @@ This series bridges the gap between raw molecular biology and corporate venture 
 
 ---
 *Developed as part of my continuous preparation and core research focus for the MPhil in Bioscience Enterprise (MBE) at the University of Cambridge.*
+- **Case 03:** Moderna Inc. — Personalized mRNA oncology, individualized neoantigen therapies, platform scalability, and the enterprise challenge of transforming a pandemic vaccine leader into a diversified biotechnology powerhouse.
