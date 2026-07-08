@@ -8,7 +8,4 @@ This series bridges the gap between raw molecular biology and corporate venture 
 
 * **Case 01: Tempus AI** — AI-driven precision medicine, multimodal data sequencing, and the reality of matching algorithmic insights with oncology clinic guardrails.(available on LinkedIn)
 * **[Case 02: Insilico Medicine](./Insilico_Medicine_Analysis.md)** — Generative Adversarial Networks (GANs), target validation timelines, and analyzing the "simulation-to-reality" gap in human Phase 2a trials.
-
----
-*Developed as part of my continuous preparation and core research focus for the MPhil in Bioscience Enterprise (MBE) at the University of Cambridge.*
 - **Case 03:** Moderna Inc. — Personalized mRNA oncology, individualized neoantigen therapies, platform scalability, and the enterprise challenge of transforming a pandemic vaccine leader into a diversified biotechnology powerhouse.
